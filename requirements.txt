@@ -1,0 +1,4 @@
+streamlit
+pandas
+lxml            # alternatywny parser XML, szybszy i bardziej elastyczny
+openpyxl        # eksport do Excela
